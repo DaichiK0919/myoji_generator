@@ -1,16 +1,7 @@
-# my_first_flutter_app
+# myoji_generator
 
-A new Flutter project.
+codelab https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ja#8
+を参考に作成しました。
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ランダムな苗字を生成し、気に入った苗字を登録することができます。
+package : japanese_family_name_generator を使用しています。
